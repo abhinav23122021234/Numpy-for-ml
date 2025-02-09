@@ -3,7 +3,8 @@
 ## Overview
 This Jupyter Notebook provides a comprehensive introduction to **NumPy**, a fundamental package for scientific computing with Python. It covers essential NumPy concepts, functions, and operations that are crucial for numerical computations and data manipulation.
 
-## Contents
+
+## Content of notebook
 The notebook includes:
 1. **Introduction to NumPy**: Understanding the importance of NumPy in numerical computing.
 2. **Creating NumPy Arrays**: Various ways to create arrays, including from lists and using built-in functions.
